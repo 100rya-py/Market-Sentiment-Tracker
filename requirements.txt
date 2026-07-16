@@ -1,7 +1,0 @@
-pandas
-numpy
-nltk
-requests
-beautifulsoup4
-matplotlib
-python-dotenv
